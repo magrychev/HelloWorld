@@ -11,6 +11,8 @@
     <title>HelloWorld</title>
   </head>
   <body>
-  HelloWorld???
+  <h6>
+  Привет!
+  </h6>
   </body>
 </html>
